@@ -1,0 +1,40 @@
+@charset "utf-8";
+html {
+    box-sizing: border-box;
+	background-color: black;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+	/* [disabled]width: 4%; */
+	text-align: center;
+	border: thin none #000000;
+}
+header {
+	font-size: 350%;
+	font: "source-sans-pro";
+	text-align: center;
+	background-color: #C5B358;
+	color: black;
+	border-style: solid;
+}
+img {
+	border-style: solid;
+}
+.Staff {
+	color: #C5B358;
+	padding-right: 13px;
+}
+.Facebook {
+	padding-left: 13px;
+	color: #C5B358;
+}
+
+.Twitter {
+	padding-left: 13px;
+	color: #C5B358;
+	padding-right: 0px;
+}
+.instagram {
+	color: #C5B358;
+	padding-left: 13px;
+}
